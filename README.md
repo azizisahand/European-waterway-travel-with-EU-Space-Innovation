@@ -19,7 +19,14 @@
 
 
 
-[**Watch the Summary Video**](assets/video/Engine_simulation.mp4) | [**View Presentation**](assets/video/presentation.mp4)
+**Watch the Summary Video**
+
+https://github.com/user-attachments/assets/977ee5af-cc6e-4b43-8af5-74d792063d53
+
+**View Presentation**
+
+https://github.com/user-attachments/assets/1d608e3d-7abb-42b7-b119-c9bc7e3d76e9
+
 
 ---
 
